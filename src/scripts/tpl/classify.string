@@ -1,0 +1,68 @@
+<div class="m-classify">
+  <header>
+    <div class="tit">分类</div>
+    <span class="yo-ico"> &#xe693;</span>
+  </header>
+  <section>
+    <ul class="classify_L">
+      <li class="active">直降商品</li>
+      <li>生鲜食品</li>
+      <li>老字号</li>
+      <li>地方特产</li>
+      <li>粮油调味</li>
+      <li>休闲食品</li>
+      <li>酒水饮料</li>
+      <li>冲调保健</li>
+      <li>主食厨房</li>
+      <li>端午节</li>
+      <li>买赠专区</li>
+    </ul>
+    <ul class="classify_R">
+      <li>
+        <div class="class_L"><img src="/yhlife/images/class1.jpg" alt="" /></div>
+        <div class="class_R">
+          <div class="text">磨浆核桃乳250ml*12/箱</div>
+          <div class="price"><span>￥44.00</span><span  class="corG">￥68</span></div>
+        </div>
+      </li>
+      <li>
+        <div class="class_L"><img src="/yhlife/images/class1.jpg" alt="" /></div>
+        <div class="class_R">
+          <div class="text">磨浆核桃乳250ml*12/箱</div>
+          <div class="price"><span>￥44.00</span><span  class="corG">￥68</span></div>
+        </div>
+      </li>
+      <li>
+        <div class="class_L"><img src="/yhlife/images/class1.jpg" alt="" /></div>
+        <div class="class_R">
+          <div class="text">磨浆核桃乳250ml*12/箱</div>
+          <div class="price"><span>￥44.00</span><span  class="corG">￥68</span></div>
+        </div>
+      </li>
+      <li>
+        <div class="class_L"><img src="/yhlife/images/class1.jpg" alt="" /></div>
+        <div class="class_R">
+          <div class="text">磨浆核桃乳250ml*12/箱</div>
+          <div class="price"><span>￥44.00</span><span  class="corG">￥68</span></div>
+        </div>
+      </li>
+      <li>
+        <div class="class_L"><img src="/yhlife/images/class1.jpg" alt="" /></div>
+        <div class="class_R">
+          <div class="text">磨浆核桃乳250ml*12/箱</div>
+          <div class="price"><span>￥44.00</span><span  class="corG">￥68</span></div>
+        </div>
+      </li>
+      <li>
+        <div class="class_L"><img src="/yhlife/images/class1.jpg" alt="" /></div>
+        <div class="class_R">
+          <div class="text">磨浆核桃乳250ml*12/箱</div>
+          <div class="price"><span>￥44.00</span><span  class="corG">￥68</span></div>
+        </div>
+      </li>
+    </ul>
+  </section>
+  <footer>
+
+  </footer>
+</div>

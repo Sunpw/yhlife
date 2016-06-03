@@ -1,0 +1,41 @@
+<div class="m-index">
+  <header>
+    <div>悠惠生活</div>
+  </header>
+  <section spa-widget="scroll">
+    <div>
+      <div><img src="/yhlife/images/list1.jpg"></div>
+      <div class="h20"></div>
+      <div><img src="/yhlife/images/list2.jpg"></div>
+      <div class="h20"></div>
+      <div><img src="/yhlife/images/list3.jpg"></div>
+      <div class="h20"></div>
+      <div><img src="/yhlife/images/list4.jpg"></div>
+      <div class="h20"></div>
+      <div><img src="/yhlife/images/list3.jpg"></div>
+      <div class="h20"></div>
+      <div><img src="/yhlife/images/list3.jpg"></div>
+      <div class="h20"></div>
+    </div>
+  </section>
+  <footer>
+    <ul>
+        <li >
+            <i class="yo-ico active">&#xe605;</i>
+            <b class="active">首页</b>
+        </li>
+        <li>
+            <i class="yo-ico">&#xe603;</i>
+            <b>分类</b>
+        </li>
+        <li>
+            <i class="yo-ico">&#xe66d;</i>
+            <b>购物车</b>
+        </li>
+        <li action-type="exit">
+            <i class="yo-ico">&#xe899;</i>
+            <b>我</b>
+        </li>
+    </ul>
+  </footer>
+</div>

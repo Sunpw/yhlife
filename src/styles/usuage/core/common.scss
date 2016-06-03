@@ -1,0 +1,9 @@
+$font-heiti-light: Heiti SC Light, Helvetica Neue, Helvetica, STHeiTi, sans-serif;
+$font-heiti-medium: Heiti SC Medium, Heiti SC Light, Helvetica Neue, Helvetica, STHeiTi, sans-serif;
+
+$base-color: #f3f3f3;
+
+@font-face {
+  font-family: yofont;
+  src: url("/yhlife/images/iconfont/iconfont.woff") format("woff"), url("/yhlife/images/iconfont/iconfont.ttf") format("truetype");
+}

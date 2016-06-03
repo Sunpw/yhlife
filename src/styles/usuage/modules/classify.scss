@@ -1,0 +1,102 @@
+.m-classify{
+  width:100%;
+  height:100%;
+  &>*{
+    width:100%;
+  }
+  @include flexbox();
+  @include flex-direction(column);
+  header{
+    @include flexbox();
+    height:.44rem;
+    background:#e84737;
+    .tit{
+      @include flex(15);
+      line-height:.44rem;
+      text-align:center;
+      font-size:16px;
+      font-weight:700;
+      color:#fff;
+    }
+    span{
+      @include flex(1);
+      line-height:.44rem;
+      color:#fff;
+    }
+
+  }
+  section{
+    @include flex();
+    @include flexbox();
+    width:100%;
+    .classify_L{
+      @include flex(1);
+      @include flexbox();
+      @include flex-direction(column);
+      height:100%;
+      li{
+        @include flex();
+        @include flexbox();
+        @include align-items(center);
+        @include justify-content(center);
+        width:100%;
+        height:100%;
+        border-bottom:1px solid #e1e1e1;
+        font-size:19px;
+        color:#444444;
+        background:#f3f4f6;
+      }
+      .active{
+        color:#ff0000;
+        background:#fff;
+      }
+
+    }
+    .classify_R{
+      @include flex(3);
+      @include flexbox();
+      @include flex-direction(column);
+      height:100%;
+      li{
+        @include flex();
+        @include flexbox();
+        width:100%;
+        height:100%;
+        border-bottom:1px solid #e1e1e1;
+        font-size:19px;
+        color:#444444;
+        .class_L{
+            @include flex(1);
+            img{
+              display:block;
+              width:80%;
+              height:80%;
+              padding:.13rem .07rem;
+            }
+        }
+        .class_R{
+          @include flex(2);
+          .text{
+            font-size:.16rem;
+            margin-top:.13rem;
+          }
+          .price{
+            margin-top:.3rem;
+            .corG{
+              color:#808080;
+              text-decoration:line-through;
+            
+            }
+            color:#ff1515;
+
+          }
+        }
+      }
+
+    }
+  }
+  footer{
+    height:.44rem;
+    background:#e84737;
+  }
+}
